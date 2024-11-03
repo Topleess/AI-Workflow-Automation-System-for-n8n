@@ -82,4 +82,4 @@
 Этот проект лицензирован под MIT License.
 
 ## Приложение
-Создано с помощью автогереатора папок [(ссылка)]([url](https://github.com/Topleess/ai-project-structure-generator))
+Создано с помощью автогереатора папок [(ссылка)](https://github.com/Topleess/ai-project-structure-generator)
